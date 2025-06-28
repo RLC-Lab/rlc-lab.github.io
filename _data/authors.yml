@@ -1,18 +1,32 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# RLC-Lab Team Members
+
+# Principal Investigator
+Yiming_Gan:
+  name        : "Yiming Gan"
+  uri         : "https://yiminggan.com"
+  email       : "ganyiming@ict.ac.cn"
+  bio         : "Principal Investigator, RLC-Lab. Leading research on autonomous machines and robotic computing systems."
+  avatar      : "yiming-gan.jpg"
+  location    : "Beijing, China"
+  employer    : "Institute of Computing Technology, Chinese Academy of Sciences"
+  googlescholar: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+  github      : "yiminggan"
+  linkedin    : "yiming-gan"
+  twitter     : "yiminggan"
+
+# Add more team members here
+# Example format:
+# Member Name:
+#   name        : "Full Name"
+#   uri         : "https://personal-website.com"
+#   email       : "email@ict.ac.cn"
+#   bio         : "Brief bio about research interests and background"
+#   avatar      : "member-photo.jpg"
+#   location    : "Beijing, China"
+#   employer    : "Institute of Computing Technology, Chinese Academy of Sciences"
+#   googlescholar: "https://scholar.google.com/citations?user=USER_ID"
+#   github      : "github-username"
+#   linkedin    : "linkedin-username"
