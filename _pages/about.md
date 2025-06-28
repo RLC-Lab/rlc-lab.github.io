@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Robotic Computing and Chip Lab (RLC-Lab)"
+title: "RLC-Lab"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,6 +12,8 @@ Welcome to the **Robotic Computing and Chip Lab (RLC-Lab)**!
 About RLC-Lab
 ======
 The Robotic Computing and Chip Lab (RLC-Lab) is a research laboratory dedicated to advancing the frontiers of robotic computing and chip design. Our lab focuses on developing innovative computing architectures and intelligent systems that bridge the gap between robotics and computational efficiency. We work on autonomous machines, an exciting area that may reform the way we live in the future. We hope to build autonomous machines that are more intelligent, more efficient and more reliable.
+
+**RLC-Lab is part of the [Research Center for Intelligent Computing Systems (CICS)](https://ict.cas.cn/jssgk/zzjg/kyxt/znjsj/js/), [The Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](https://www.ict.ac.cn/).**
 
 Research Areas
 ======
