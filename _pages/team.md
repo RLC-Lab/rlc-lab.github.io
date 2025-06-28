@@ -40,28 +40,178 @@ author_profile: true
 
 ## Current Members
 
-<!-- Add current team members here -->
-<div class="team-section">
-  <h2>PhD Students</h2>
-  <!-- Add PhD students -->
+### PhD Students
+
+{% assign author = site.data.authors.Guoshuai_Geng %}
+<div class="team-member">
+  <div class="member-avatar">
+    {% if author.avatar contains "://" %}
+      <img src="{{ author.avatar }}" alt="{{ author.name }}">
+    {% else %}
+      <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}">
+    {% endif %}
+  </div>
+  <div class="member-info">
+    <h3>{{ author.name }}</h3>
+    <p class="member-title">PhD Student</p>
+    <p class="member-bio">{{ author.bio }}</p>
+    <div class="member-links">
+      {% if author.email %}
+        <a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i> Email</a>
+      {% endif %}
+    </div>
+  </div>
 </div>
 
-<div class="team-section">
-  <h2>Master Students</h2>
-  <!-- Add Master students -->
+{% assign author = site.data.authors.Yuhui_Hao %}
+<div class="team-member">
+  <div class="member-avatar">
+    {% if author.avatar contains "://" %}
+      <img src="{{ author.avatar }}" alt="{{ author.name }}">
+    {% else %}
+      <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}">
+    {% endif %}
+  </div>
+  <div class="member-info">
+    <h3>{{ author.name }}</h3>
+    <p class="member-title">PhD Student</p>
+    <p class="member-bio">{{ author.bio }}</p>
+    <div class="member-links">
+      {% if author.email %}
+        <a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i> Email</a>
+      {% endif %}
+    </div>
+  </div>
 </div>
 
-<div class="team-section">
-  <h2>Research Staff</h2>
-  <!-- Add research staff -->
+### Master Students
+
+{% assign author = site.data.authors.Kai_Pan %}
+<div class="team-member">
+  <div class="member-avatar">
+    {% if author.avatar contains "://" %}
+      <img src="{{ author.avatar }}" alt="{{ author.name }}">
+    {% else %}
+      <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}">
+    {% endif %}
+  </div>
+  <div class="member-info">
+    <h3>{{ author.name }}</h3>
+    <p class="member-title">Master Student</p>
+    <p class="member-bio">{{ author.bio }}</p>
+    <div class="member-links">
+      {% if author.email %}
+        <a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i> Email</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% assign author = site.data.authors.Xinquan_Lin %}
+<div class="team-member">
+  <div class="member-avatar">
+    {% if author.avatar contains "://" %}
+      <img src="{{ author.avatar }}" alt="{{ author.name }}">
+    {% else %}
+      <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}">
+    {% endif %}
+  </div>
+  <div class="member-info">
+    <h3>{{ author.name }}</h3>
+    <p class="member-title">Master Student</p>
+    <p class="member-bio">{{ author.bio }}</p>
+    <div class="member-links">
+      {% if author.email %}
+        <a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i> Email</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% assign author = site.data.authors.Wenhao_Sun %}
+<div class="team-member">
+  <div class="member-avatar">
+    {% if author.avatar contains "://" %}
+      <img src="{{ author.avatar }}" alt="{{ author.name }}">
+    {% else %}
+      <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}">
+    {% endif %}
+  </div>
+  <div class="member-info">
+    <h3>{{ author.name }}</h3>
+    <p class="member-title">Master Student</p>
+    <p class="member-bio">{{ author.bio }}</p>
+    <div class="member-links">
+      {% if author.email %}
+        <a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i> Email</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% assign author = site.data.authors.Yiyang_Huang %}
+<div class="team-member">
+  <div class="member-avatar">
+    {% if author.avatar contains "://" %}
+      <img src="{{ author.avatar }}" alt="{{ author.name }}">
+    {% else %}
+      <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}">
+    {% endif %}
+  </div>
+  <div class="member-info">
+    <h3>{{ author.name }}</h3>
+    <p class="member-title">Master Student</p>
+    <p class="member-bio">{{ author.bio }}</p>
+    <div class="member-links">
+      {% if author.email %}
+        <a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i> Email</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% assign author = site.data.authors.Zixuan_Wang %}
+<div class="team-member">
+  <div class="member-avatar">
+    {% if author.avatar contains "://" %}
+      <img src="{{ author.avatar }}" alt="{{ author.name }}">
+    {% else %}
+      <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}">
+    {% endif %}
+  </div>
+  <div class="member-info">
+    <h3>{{ author.name }}</h3>
+    <p class="member-title">Master Student</p>
+    <p class="member-bio">{{ author.bio }}</p>
+    <div class="member-links">
+      {% if author.email %}
+        <a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i> Email</a>
+      {% endif %}
+    </div>
+  </div>
 </div>
 
 ## Alumni
 
-<!-- Add alumni members here -->
-<div class="team-section">
-  <h2>Former Members</h2>
-  <!-- Add former members -->
+{% assign author = site.data.authors.Sai_Hou %}
+<div class="team-member">
+  <div class="member-avatar">
+    {% if author.avatar contains "://" %}
+      <img src="{{ author.avatar }}" alt="{{ author.name }}">
+    {% else %}
+      <img src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ author.name }}">
+    {% endif %}
+  </div>
+  <div class="member-info">
+    <h3>{{ author.name }}</h3>
+    <p class="member-title">Alumni</p>
+    <p class="member-bio">{{ author.bio }}</p>
+    <div class="member-links">
+      {% if author.email %}
+        <a href="mailto:{{ author.email }}"><i class="fas fa-envelope"></i> Email</a>
+      {% endif %}
+    </div>
+  </div>
 </div>
 
 ## Join Us

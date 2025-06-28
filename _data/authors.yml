@@ -9,13 +9,69 @@ Yiming_Gan:
   uri         : "https://yiminggan.com"
   email       : "ganyiming@ict.ac.cn"
   bio         : "Principal Investigator, RLC-Lab. Leading research on autonomous machines and robotic computing systems."
-  avatar      : "yiming-gan.jpg"
   location    : "Beijing, China"
   employer    : "Institute of Computing Technology, Chinese Academy of Sciences"
   googlescholar: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
   github      : "yiminggan"
   linkedin    : "yiming-gan"
   twitter     : "yiminggan"
+
+# PhD Students
+Guoshuai_Geng:
+  name        : "Guoshuai Geng"
+  email       : "gengguoshuai19b@ict.ac.cn"
+  bio         : "PhD Student. Research focus: HLS for Robotic Applications."
+  location    : "Beijing, China"
+  employer    : "Institute of Computing Technology, Chinese Academy of Sciences"
+
+Yuhui_Hao:
+  name        : "Yuhui Hao"
+  email       : "haoyuhui24b@ict.ac.cn"
+  bio         : "PhD Student. Research focus: Accelerator Design for Humanoid Robot Control. Publications: TC, DAC23, ASPLOS24, ISCA25, GLSVLSI25."
+  location    : "Beijing, China"
+  employer    : "Institute of Computing Technology, Chinese Academy of Sciences"
+
+# Master Students
+Kai_Pan:
+  name        : "Kai Pan"
+  email       : "pankai22s@ict.ac.cn"
+  bio         : "Master Student. Research focus: Benchmarking Robotic Applications. Publications: BMVC24."
+  location    : "Beijing, China"
+  employer    : "Institute of Computing Technology, Chinese Academy of Sciences"
+
+Xinquan_Lin:
+  name        : "Xinquan Lin"
+  bio         : "Master Student. Research focus: Multi-Chiplet Simulator Design. Publications: IISWC24."
+  location    : "Beijing, China"
+  employer    : "Institute of Computing Technology, Chinese Academy of Sciences"
+
+Wenhao_Sun:
+  name        : "Wenhao Sun"
+  email       : "sunwenhao23s@ict.ac.cn"
+  bio         : "Master Student. Research focus: Benchmarking Real-time Workloads. Publications: ICRA25, GLSVLSI25."
+  location    : "Beijing, China"
+  employer    : "Institute of Computing Technology, Chinese Academy of Sciences"
+
+Yiyang_Huang:
+  name        : "Yiyang Huang"
+  email       : "huangyiyang24s@ict.ac.cn"
+  bio         : "Master Student. Research focus: Reliability and Safety in Embodied AI. Publications: ISCA25."
+  location    : "Beijing, China"
+  employer    : "Institute of Computing Technology, Chinese Academy of Sciences"
+
+Zixuan_Wang:
+  name        : "Zixuan Wang"
+  email       : "wangzixuan@ict.ac.cn"
+  bio         : "Master Student. Research focus: Humanoid Robot Control. Publications: ICRA2025."
+  location    : "Beijing, China"
+  employer    : "Institute of Computing Technology, Chinese Academy of Sciences"
+
+# Alumni
+Sai_Hou:
+  name        : "Sai Hou"
+  bio         : "Alumni. Research focus: Embodied AI Robot System Design. Publications: ICRA2025. Now PhD @ Beijing Institute of Technology."
+  location    : "Beijing, China"
+  employer    : "Beijing Institute of Technology"
 
 # Add more team members here
 # Example format:
