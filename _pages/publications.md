@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
+
 
 For the most up-to-date and comprehensive list of our lab's publications, please visit:
 
